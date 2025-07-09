@@ -29,11 +29,11 @@
   </tr>
   <tr>
     <td><strong>Experience</strong></td>
-    <td>LLM evaluation, AI-based solutions, academic research</td>
+    <td>LLM Evaluation, AI-based Solutions, Academic Research</td>
   </tr>
   <tr>
     <td><strong>Education</strong></td>
-    <td>BSc in Computer Science @ UFCG</td>
+    <td>Computer Science student @ UFCG</td>
   </tr>
 </table>
 
