@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><strong>Experience</strong></td>
-    <td>LLM Evaluation, AI-based Solutions, Academic Research</td>
+    <td>LLM Evaluation, AI-based Solutions, Academic Research, Java + Spring applications</td>
   </tr>
   <tr>
     <td><strong>Education</strong></td>
